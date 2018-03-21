@@ -11,6 +11,5 @@ return destructivelyAddElementToBeginningOfArray
 }
 
 
-["foo",...destructivelyAddElementToBeginningOfArray]
-return destructivelyAddElementToBeginningOfArray
+
   
