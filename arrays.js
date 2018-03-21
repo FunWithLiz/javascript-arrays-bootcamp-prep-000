@@ -12,5 +12,5 @@ return destructivelyAddElementToBeginningOfArray
 
 
 ["foo",...destructivelyAddElementToBeginningOfArray]
-destructivelyAddElementToBeginningOfArray
+return destructivelyAddElementToBeginningOfArray
   
