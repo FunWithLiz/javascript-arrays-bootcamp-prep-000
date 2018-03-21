@@ -11,8 +11,8 @@ return array
 }
 
 function addElementToEndOfArray(a,n){
-var addElementToEndOfArray = ["A","B","C"]
-addElementToEndOfArray.push("D")
+var array = [...a,n]
+return array
 }
 
 function destructivelyAddElementToEndOfArray(a,n){
