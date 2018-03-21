@@ -7,6 +7,7 @@ return addElementToBeginningOfArray
 
 function destructivelyAddElementToBeginningOfArray(a, n){
 var destructivelyAddElementToBeginningOfArray = ["foo",1]
-destructivelyAddElementToBeginningOfArray.unshift("foo")
 return destructivelyAddElementToBeginningOfArray
 }
+
+destructivelyAddElementToBeginningOfArray.unshift("foo")
