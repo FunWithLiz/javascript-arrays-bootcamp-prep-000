@@ -10,6 +10,11 @@ var destructivelyAddElementToBeginningOfArray = ["foo",1]
 return destructivelyAddElementToBeginningOfArray
 }
 
-Array addElementToEndOfArray(a,n)
+function addElementToEndOfArray(a,n){
+var addElementToEndOfArray = ["foo",1]  
+}
 
+function destructivelyAddElementToEndOfArray(a,n){
+  
+}
   
